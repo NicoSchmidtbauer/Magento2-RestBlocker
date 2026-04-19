@@ -98,7 +98,7 @@ Before the request is processed, it:
 
 ## Testing
 
-### Example (PowerShell with Basic Auth)
+### Example (PowerShell)
 
 ```powershell
 $uri = "https://yourshop/rest/V1/guest-carts/test/items"
